@@ -16,5 +16,5 @@ Learn to use powerful, open-source, Python tools, including Pandas, Git and Matp
   * How to effectively visualize results
 
 # Run Jupyter notebooks in Google Colaboratory (Google Colab)
-Run [Clone_this_repository_to_Google_Drive.ipynb](https://github.com/Data-Science-and-Data-Analytics-Courses/UCSanDiegoX---Python-for-Data-Science-03-Jan-2019-audit-/blob/master/Clone_this_repository_to_Google_Drive.ipynb) in Google Colab to clone this repository to Google Drive.\
+Open and run [Clone_this_repository_to_Google_Drive.ipynb](https://github.com/Data-Science-and-Data-Analytics-Courses/UCSanDiegoX---Python-for-Data-Science-03-Jan-2019-audit-/blob/master/Clone_this_repository_to_Google_Drive.ipynb) in Google Colab to clone this repository to Google Drive.\
 Once the repository has been cloned to Google Drive, the notebooks can be opened and run in Google Colab.
