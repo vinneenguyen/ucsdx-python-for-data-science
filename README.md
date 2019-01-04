@@ -4,7 +4,8 @@ Learn to use powerful, open-source, Python tools, including Pandas, Git and Matp
 # Course Information
 * **Provider**: The University of California, San Diego (via edX)
 * **MicroMasters**: This course is part of the [MicroMasters Program in Data Science](https://www.edx.org/micromasters/uc-san-diegox-data-science)
-* **Course Format**: Self-Paced
+* **Track**: audit (non-verified)
+* **Format**: Self-Paced
 * **Website**: [Python for Data Science](https://www.edx.org/course/python-for-data-science-1)
 * **Start date**: 03 Jan 2019
 * **End date**: 18 Apr 2019
