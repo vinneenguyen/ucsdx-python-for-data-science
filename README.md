@@ -17,5 +17,6 @@ Learn to use powerful, open-source, Python tools, including Pandas, Git and Matp
   * How to effectively visualize results
 
 # Run Jupyter notebooks in Google Colaboratory
-Open a notebook in [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true) from this GitHub repository. The notebook can then be run in Google Colab.
-
+Open a notebook in [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true) using this GitHub repository's url. The notebook can then be run in Google Colab.\
+(Alternatively, a notebook can also be opened in Google Colab by clicking on the [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() badge on the top of the GitHub notebook displayed on the website).\
+See [Using Google Colab with GitHub](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb) to learn more about loading and saving GitHub-hosted notebooks with Google Colab.
